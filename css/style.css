@@ -1,0 +1,27 @@
+body {
+    font-size: 12px;
+    /* the comp */
+    background: url('/images/wireframe-comp.jpg') no-repeat top center;
+}
+
+h1,
+h2 {
+    font-size: 24px;
+}
+
+p {
+    font-size: 14px;
+}
+
+li {}
+
+li a {}
+
+button {
+    font-size: 14px;
+}
+
+/* gets rid of annoying spaces between things */
+section {
+    font-size: 0;
+}
